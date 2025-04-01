@@ -26,7 +26,7 @@
 
 ###
 
-<h4 align="left">I'm  Sarvesh Charpe from ....<br><br>- 🔭 I’m currenty student at National Institute of Technology Warangal ,India<br>- 📚 I'm currently exploring MERN stack as well as AI .<br>- ⚡ In my free time I watch web series and movies</h4>
+<h4 align="left">I'm  Sarvesh Charpe from Nagpur, Maharashtra, India <br><br>- 🔭 I’m currenty student at National Institute of Technology Warangal ,India<br>- 📚 I'm currently exploring MERN stack as well as AI .<br>- ⚡ In my free time I watch web series and movies</h4>
 
 ###
 
